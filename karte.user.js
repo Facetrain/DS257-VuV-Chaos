@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         W257 Karte fuer nette Menschen
-// @version      1.2
+// @version      1.3
 // @description  draw on map
 // @author       Shinko to Kuma, suilenroc
 // @match        https://de257.die-staemme.de/game.php?*village=*screen=map*
 // @grant        none
-// @downloadURL  https://github.com/Facetrain/DS257-VuV-Chaos/raw/refs/heads/main/karte.user.js
-// @updateURL    https://github.com/Facetrain/DS257-VuV-Chaos/raw/refs/heads/main/karte.user.js
+// @downloadURL  https://raw.githubusercontent.com/Facetrain/DS257-VuV-Chaos/main/karte.user.js
+// @updateURL    https://raw.githubusercontent.com/Facetrain/DS257-VuV-Chaos/main/karte.user.js
 // ==/UserScript==
 $.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(function() {
 
