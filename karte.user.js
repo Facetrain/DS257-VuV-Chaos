@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         W257 Karte fuer nette Menschen
-// @version      1.5
+// @version      1.0
 // @description  draw on map
 // @author       Shinko to Kuma, suilenroc
 // @match        https://de257.die-staemme.de/game.php?*village=*screen=map*
@@ -87,8 +87,8 @@ MapSdk.lines.push({x1: 504,y1: 380,x2: 504,y2: 306,styling:{main: {"strokeStyle"
 MapSdk.texts.push({text:"FFA",x:500,y:387,font:"47px Arial",miniFont: "20px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 MapSdk.texts.push({text:"FFA",x:500,y:398,font:"47px Arial",miniFont: "20px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
-MapSdk.texts.push({text:"Egal",x:666,y:408,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
-MapSdk.texts.push({text:"Egal",x:666,y:471,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+MapSdk.texts.push({text:"Egaaal",x:666,y:408,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+MapSdk.texts.push({text:"Egaaal",x:666,y:471,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
 MapSdk.texts.push({text:"Egal",x:652,y:408,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 MapSdk.texts.push({text:"Egal",x:652,y:471,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
