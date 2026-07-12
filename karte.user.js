@@ -126,16 +126,16 @@ MapSdk.texts.push({text:"Big Yahu",x:477,y:418,font:"38px Arial",miniFont: "12px
 MapSdk.texts.push({text:"Big Yahu",x:477,y:471,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
 MapSdk.texts.push({text:"PaveLow",x:454.5,y:418,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
-MapSdk.texts.push({text:"/",x:454.5,y:420,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+MapSdk.texts.push({text:"&",x:454.5,y:420,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 MapSdk.texts.push({text:"Loris",x:454.5,y:422,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
-MapSdk.texts.push({text:"/",x:454.5,y:424,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+MapSdk.texts.push({text:"&",x:454.5,y:424,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 MapSdk.texts.push({text:"PP-Exclusive",x:454.5,y:426,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
 
 MapSdk.texts.push({text:"PaveLow",x:454.5,y:471,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
-MapSdk.texts.push({text:"/",x:454.5,y:473,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+MapSdk.texts.push({text:"&",x:454.5,y:473,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 MapSdk.texts.push({text:"Loris",x:454.5,y:475,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
-MapSdk.texts.push({text:"/",x:454.5,y:477,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+MapSdk.texts.push({text:"&",x:454.5,y:477,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 MapSdk.texts.push({text:"PP-Exclusive",x:454.5,y:479,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
 
