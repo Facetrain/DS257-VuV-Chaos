@@ -5,8 +5,8 @@
 // @author       Shinko to Kuma, suilenroc
 // @match        https://de257.die-staemme.de/game.php?*village=*screen=map*
 // @grant        none
-// @downloadURL  ...
-// @updateURL    ...
+// @downloadURL  https://github.com/Facetrain/DS257-VuV-Chaos/raw/refs/heads/main/karte.user.js
+// @updateURL    https://github.com/Facetrain/DS257-VuV-Chaos/raw/refs/heads/main/karte.user.js
 // ==/UserScript==
 $.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(function() {
 
