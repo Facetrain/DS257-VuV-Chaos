@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         W257 Karte fuer nette Menschen
-// @version      1.4
+// @version      1.5
 // @description  draw on map
 // @author       Shinko to Kuma, suilenroc
 // @match        https://de257.die-staemme.de/game.php?*village=*screen=map*
