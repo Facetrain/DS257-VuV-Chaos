@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         W257
-// @version      1.3
+// @version      1.4
 // @description  draw on map
 // @author       Shinko to Kuma, suilenroc
 // @match        https://de257.die-staemme.de/game.php?*village=*screen=map*
@@ -96,8 +96,8 @@ MapSdk.texts.push({text:"FFA",x:500,y:398,font:"47px Arial",miniFont: "20px Aria
 MapSdk.texts.push({text:"Free",x:666,y:418,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 MapSdk.texts.push({text:"Free",x:666,y:471,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
-MapSdk.texts.push({text:"Free",x:652,y:418,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
-MapSdk.texts.push({text:"Free",x:652,y:471,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+MapSdk.texts.push({text:"Dark2Flow",x:652,y:418,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+MapSdk.texts.push({text:"Dark2Flow",x:652,y:471,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
 MapSdk.texts.push({text:"Yasika",x:652,y:364,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
