@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         W257
-// @version      1.8
+// @version      1.9
 // @description  draw on map
 // @author       Shinko to Kuma, suilenroc
 // @match        https://de257.die-staemme.de/game.php?*village=*screen=map*
