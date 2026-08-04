@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         W257
-// @version      1.9
+// @version      1.10
 // @description  draw on map
 // @author       Shinko to Kuma, suilenroc
 // @match        https://de257.die-staemme.de/game.php?*village=*screen=map*
@@ -214,6 +214,9 @@ MapSdk.texts.push({text:"-AX-",x:530,y:364,font:"38px Arial",miniFont: "12px Ari
 MapSdk.texts.push({text:"KingSimon1",x:557,y:364,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
 MapSdk.texts.push({text:"DS-Tyrann",x:587,y:364,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+MapSdk.texts.push({text:"&",x:589,y:364,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+MapSdk.texts.push({text:"Tranquillo777",x:591,y:364,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+  
 
 MapSdk.texts.push({text:"Rixe",x:605,y:364,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
