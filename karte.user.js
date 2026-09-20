@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         W257
-// @version      1.16
+// @version      1.17
 // @description  draw on map
 // @author       Shinko to Kuma, suilenroc
 // @match        https://de257.die-staemme.de/game.php?*village=*screen=map*
@@ -146,9 +146,9 @@ MapSdk.texts.push({text:"DrDantos",x:569,y:439,font:"38px Arial",miniFont: "12px
 
 MapSdk.texts.push({text:"Skrupellos",x:544,y:439,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
-MapSdk.texts.push({text:"Drei",x:519,y:439,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+MapSdk.texts.push({text:"Undercover",x:519,y:439,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
-MapSdk.texts.push({text:"Undercover",x:529,y:439,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+MapSdk.texts.push({text:"Drei",x:529,y:439,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
 MapSdk.texts.push({text:"bjrn202000",x:507,y:439,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
