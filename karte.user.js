@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         W257
-// @version      1.17
+// @version      1.18
 // @description  draw on map
 // @author       Shinko to Kuma, suilenroc
 // @match        https://de257.die-staemme.de/game.php?*village=*screen=map*
@@ -107,10 +107,21 @@ MapSdk.lines.push({x1: 600,y1: 444,x2: 647,y2: 444,styling:{main: {"strokeStyle"
 MapSdk.lines.push({x1: 659,y1: 475,x2: 659,y2: 410,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "#FFFF00","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
 MapSdk.lines.push({x1: 659,y1: 450,x2: 647,y2: 450,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "#FFFF00","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
 MapSdk.lines.push({x1: 647,y1: 450,x2: 647,y2: 444,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "#FFFF00","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
+MapSdk.lines.push({x1: 559,y1: 335,x2: 549,y2: 335,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "#FFFF00","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
+MapSdk.lines.push({x1: 549,y1: 335,x2: 549,y2: 246,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "#FFFF00","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
+MapSdk.lines.push({x1: 569,y1: 410,x2: 569,y2: 380,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "#FFFF00","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
+MapSdk.lines.push({x1: 554,y1: 410,x2: 554,y2: 380,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "#FFFF00","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
+MapSdk.lines.push({x1: 284,y1: 354,x2: 284,y2: 453,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "#FFFF00","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
 
 MapSdk.texts.push({text:"FFA",x:500,y:398,font:"47px Arial",miniFont: "20px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 MapSdk.texts.push({text:"FFA",x:632,y:427,font:"47px Arial",miniFont: "20px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 MapSdk.texts.push({text:"FFA",x:699,y:381,font:"47px Arial",miniFont: "20px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+
+MapSdk.texts.push({text:"Dobby",x:275,y:383,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+
+MapSdk.texts.push({text:"SCJA",x:291,y:383,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+
+MapSdk.texts.push({text:"Rixebike",x:561,y:395,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
 MapSdk.texts.push({text:"HLVTC",x:684,y:438,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
@@ -144,11 +155,11 @@ MapSdk.texts.push({text:"RixeBike",x:592,y:439,font:"38px Arial",miniFont: "12px
 
 MapSdk.texts.push({text:"DrDantos",x:569,y:439,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
-MapSdk.texts.push({text:"Skrupellos",x:544,y:439,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+MapSdk.texts.push({text:"Drei",x:544,y:439,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
-MapSdk.texts.push({text:"Undercover",x:519,y:439,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+MapSdk.texts.push({text:"JayJay",x:519,y:439,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
-MapSdk.texts.push({text:"Drei",x:529,y:439,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
+MapSdk.texts.push({text:"UnderCover",x:529,y:439,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
 MapSdk.texts.push({text:"bjrn202000",x:507,y:439,font:"38px Arial",miniFont: "12px Arial",color: "yellow",drawOnMap: true,drawOnMini: true,});
 
